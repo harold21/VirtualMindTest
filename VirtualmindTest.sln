@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualmindTest", "VirtualmindTest\VirtualmindTest.csproj", "{4BC5C485-CE1C-4D40-85DD-4BF2D63AA9F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{406322B1-9D95-49F1-9C55-744E4B4843CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{6587BE55-5166-497C-B2CE-6E9E29F77C5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BC5C485-CE1C-4D40-85DD-4BF2D63AA9F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BC5C485-CE1C-4D40-85DD-4BF2D63AA9F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BC5C485-CE1C-4D40-85DD-4BF2D63AA9F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BC5C485-CE1C-4D40-85DD-4BF2D63AA9F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{406322B1-9D95-49F1-9C55-744E4B4843CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{406322B1-9D95-49F1-9C55-744E4B4843CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{406322B1-9D95-49F1-9C55-744E4B4843CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{406322B1-9D95-49F1-9C55-744E4B4843CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6587BE55-5166-497C-B2CE-6E9E29F77C5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6587BE55-5166-497C-B2CE-6E9E29F77C5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6587BE55-5166-497C-B2CE-6E9E29F77C5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6587BE55-5166-497C-B2CE-6E9E29F77C5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
